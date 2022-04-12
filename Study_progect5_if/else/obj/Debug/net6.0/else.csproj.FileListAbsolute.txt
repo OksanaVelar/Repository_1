@@ -1,0 +1,15 @@
+/Users/oksana/Documents/For_Github_study/Repository_1/Study_progect5_if/else/obj/Debug/net6.0/else.csproj.AssemblyReference.cache
+/Users/oksana/Documents/For_Github_study/Repository_1/Study_progect5_if/else/obj/Debug/net6.0/else.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oksana/Documents/For_Github_study/Repository_1/Study_progect5_if/else/obj/Debug/net6.0/else.AssemblyInfoInputs.cache
+/Users/oksana/Documents/For_Github_study/Repository_1/Study_progect5_if/else/obj/Debug/net6.0/else.AssemblyInfo.cs
+/Users/oksana/Documents/For_Github_study/Repository_1/Study_progect5_if/else/obj/Debug/net6.0/else.csproj.CoreCompileInputs.cache
+/Users/oksana/Documents/For_Github_study/Repository_1/Study_progect5_if/else/bin/Debug/net6.0/else
+/Users/oksana/Documents/For_Github_study/Repository_1/Study_progect5_if/else/bin/Debug/net6.0/else.deps.json
+/Users/oksana/Documents/For_Github_study/Repository_1/Study_progect5_if/else/bin/Debug/net6.0/else.runtimeconfig.json
+/Users/oksana/Documents/For_Github_study/Repository_1/Study_progect5_if/else/bin/Debug/net6.0/else.dll
+/Users/oksana/Documents/For_Github_study/Repository_1/Study_progect5_if/else/bin/Debug/net6.0/else.pdb
+/Users/oksana/Documents/For_Github_study/Repository_1/Study_progect5_if/else/obj/Debug/net6.0/else.dll
+/Users/oksana/Documents/For_Github_study/Repository_1/Study_progect5_if/else/obj/Debug/net6.0/refint/else.dll
+/Users/oksana/Documents/For_Github_study/Repository_1/Study_progect5_if/else/obj/Debug/net6.0/else.pdb
+/Users/oksana/Documents/For_Github_study/Repository_1/Study_progect5_if/else/obj/Debug/net6.0/else.genruntimeconfig.cache
+/Users/oksana/Documents/For_Github_study/Repository_1/Study_progect5_if/else/obj/Debug/net6.0/ref/else.dll
